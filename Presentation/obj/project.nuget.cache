@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2M9fHOV1vNK16/pUXKzTDPFTl2UWcLgi2x+1gttGAJesqlX46esUQTR9VJ3mKPpUCGSYf2BYbWxKCqrWF7zFqQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\CQRS-CleanAchitecture\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caomi\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\caomi\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\caomi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
